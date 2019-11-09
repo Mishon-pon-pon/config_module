@@ -1,0 +1,6 @@
+{
+    "Port": 3000,
+    "DB": "DB.db",
+    "Test": "It's test",
+    "isVisible": true
+}
